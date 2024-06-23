@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "139535565584",
+    "firebase_url": "https://bookkissh-default-rtdb.firebaseio.com",
+    "project_id": "bookkissh",
+    "storage_bucket": "bookkissh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139535565584:android:afed0c3d11e31219445b95",
+        "android_client_info": {
+          "package_name": "com.devkishancodes.bookkissh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNrLbWITPhS4I_-nfZkqDB4y7yFuXhgEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
